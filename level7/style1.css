@@ -1,0 +1,89 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.font-size{
+      font-size: 30px;
+      font-family: cursive;
+      font-weight: bolder;
+      font-style: italic;    
+}
+.font-size2{
+          font-size: 50px;
+          font-family: cursive;
+          font-weight: bolder;
+          font-style: italic;    
+    }
+.c{
+   color: #264653;
+}
+.cc:hover{
+   background-color: #264653;
+   color: #fff;
+}
+.cc{
+   border: solid #264653;
+   color: #264653;
+   padding: 10px;
+   border-radius: 10px;
+}
+h1{
+   text-transform: capitalize  ;
+}
+nav h1{
+   margin-top: -130px;
+}
+nav{
+   height: 100px;
+   background-color: #264653;
+   display: flex;
+   color: #fff;
+}
+article{
+   margin-top: 80px;
+   justify-content: space-evenly;
+   margin-left: 20px;
+   display: flex;      
+}
+div{
+   margin-top: 80px;
+   justify-content: space-evenly;
+   margin-left: 20px;
+   display: flex;      
+}
+nav img{
+   margin-top: -100px;
+   width: 80px;
+}
+.a{
+   text-decoration: none;
+   color: #fff;
+}
+.a:hover{
+   text-decoration: underline;
+   color: #fff;
+}
+footer{
+   margin-left: 600px;
+   margin-top: 70px;
+}
+img{
+   width: 700px;
+   margin-top: 20px;
+}
+p{
+   justify-content: center;
+   align-items: center;
+   display: flex;
+}
+.winLose{
+   margin-top: -10   0px;
+   background-color: #03071e;
+   height: 250px;
+   width: 300px;
+   color: #fff;
+   text-align: center;
+}
+h1{
+   padding: 80px;
+}
